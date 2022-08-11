@@ -1,4 +1,4 @@
-﻿string[] a = new string[4] {"1234", "1567", "-2", "computer science"};
+﻿string[] a = new string[5] {"1234", "1567", "-2", "computer", "11"};
 string[] b = new string[a.Length];
 void f(string[] a, string[] b)
 {
